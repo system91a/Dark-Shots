@@ -705,8 +705,8 @@ k += 1
 virus.append(0)
 virus[k] = Action()
 virus[k].index = k
-virus[k].text = "You have to start every sentece \nwith the word 'fuck'."
-virus[k].end  = "Enough of your rude language, stop saying 'fuck'."
+virus[k].text = "You have to start every sentece \nwith the word 'butterfly'."
+virus[k].end  = "Enough of your rude language, stop saying 'butterfly'."
 
 k += 1
 virus.append(0)
